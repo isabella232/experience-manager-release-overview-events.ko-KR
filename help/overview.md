@@ -3,10 +3,10 @@ title: Adobe Experience Manager as a Cloud Service 릴리스 개요
 description: Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한 개요 보기
 user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
-source-git-commit: ece8359e8100eca2508bc9e58e17416756d23349
-workflow-type: ht
-source-wordcount: '118'
-ht-degree: 100%
+source-git-commit: 4076daa66fe9653c3d29de2ef3cf187664eae962
+workflow-type: tm+mt
+source-wordcount: '132'
+ht-degree: 97%
 
 ---
 
@@ -15,6 +15,28 @@ ht-degree: 100%
 Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한 개요를 확인하십시오. AEM 제품 팀에서 제공하는 약 10분 분량의 짧은 비디오로 최신 릴리스의 하이라이트를 공유합니다.
 
 ## 최신 업데이트
+
+<table style="max-width: 50%;">
+<tr>
+  <td>
+    <a href="./2022/2022-4-0.md">
+      <img alt="2022.4.0 릴리스" src="./2022/assets/2022-4-0.png" />
+    </a>
+    <div>
+      <a href="./2022/2022-4-0.md">
+        <strong>릴리스 | 2022.4.0</strong>
+        <br/>
+      </a>
+        <em>2022년 5월 5일 릴리스 </em>
+    </div>
+    <p>
+      <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">릴리스 정보</a>
+    <p>
+  </td>
+</tr>  
+</table>
+
+## 지난 업데이트
 
 <table style="max-width: 50%;">
 <tr>
@@ -33,12 +55,7 @@ Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한
       <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">릴리스 정보</a>
     <p>
   </td>
-</tr>  
-</table>
-
-## 지난 업데이트
-
-<table style="max-width: 50%;">
+</tr> 
 <tr>
   <td>
     <a href="./2022/2022-1-0.md">
