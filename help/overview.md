@@ -1,18 +1,18 @@
 ---
 title: Adobe Experience Manager as a Cloud Service 릴리스 개요
-description: Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간단한 개요를 살펴보십시오
+description: Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한 개요 보기
 user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
 source-git-commit: ece8359e8100eca2508bc9e58e17416756d23349
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 # Adobe Experience Manager as a Cloud Service 릴리스 업데이트
 
-Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간단한 개요를 살펴보십시오. 이 짧은 10분 분량의 비디오를 AEM 제품 팀이 최신 릴리스의 하이라이트를 공유합니다.
+Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한 개요를 확인하십시오. AEM 제품 팀에서 제공하는 약 10분 분량의 짧은 비디오로 최신 릴리스의 하이라이트를 공유합니다.
 
 ## 최신 업데이트
 
@@ -57,7 +57,7 @@ Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간단한
   </td>
   <td>
     <a href="./2021/2021-11-0.md">
-      <img alt="2021.11.0 AEMCS 릴리스" src="./2021/assets/2021-11-0.png" />
+      <img alt="2021.11.0 AEM CS 릴리스" src="./2021/assets/2021-11-0.png" />
     </a>
     <div>
     <a href="./2021/2021-11-0.md">
