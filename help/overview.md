@@ -4,9 +4,9 @@ description: Adobe Experience Manager as a Cloud Service의 최신 기능에 대
 user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
 source-git-commit: 69927216cfc8e025cec9484c00e67a2478ceb53b
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '177'
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Adobe Experience Manager as a Cloud Service의 최신 기능에 대한 간략한
           <strong>릴리스 | 2022.7.0</strong>
           <br/>
         </a>
-          <em>릴리스 날짜: 2022년 8월 8일 </em>
+          <em>릴리스 일자: 2022년 8월 8일 </em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">릴리스 정보</a>
