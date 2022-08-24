@@ -5,8 +5,8 @@ user-guide-description: Adobe Experience Manager as a Cloud Service의 최신 �
 breadcrumb-title: AEM CS 릴리스 업데이트
 source-git-commit: 2d88e857596635f74b6c551ab7f79440744bcff1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '56'
+ht-degree: 100%
 
 ---
 
